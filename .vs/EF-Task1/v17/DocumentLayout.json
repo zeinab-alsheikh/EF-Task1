@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\Migrations\\20240806224145_updateProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240806224145_updateProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|c:\\users\\admin\\desktop\\back-end\\ef-task1\\migrations\\20240806224145_updateproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:migrations\\20240806224145_updateproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|c:\\users\\admin\\desktop\\back-end\\ef-task1\\context\\applicationbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\context\\applicationbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:context\\applicationbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|c:\\users\\admin\\desktop\\back-end\\ef-task1\\migrations\\20240806223403_createproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\migrations\\20240806223403_createproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:migrations\\20240806223403_createproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|c:\\users\\admin\\desktop\\back-end\\ef-task1\\migrations\\20240806223525_createnewproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\migrations\\20240806223525_createnewproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:migrations\\20240806223525_createnewproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|c:\\users\\admin\\desktop\\back-end\\ef-task1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|c:\\users\\admin\\desktop\\back-end\\ef-task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Migrations\\20240806224145_updateProductsTable.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\Migrations\\20240806224145_updateProductsTable.cs",
               "RelativeToolTip": "Migrations\\20240806224145_updateProductsTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T22:41:45.395Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Migrations\\20240806223525_CreateNewProductsTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T22:35:26.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T22:35:26.2Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Migrations\\20240806223403_CreateProductsTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T22:34:04.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T22:34:04.154Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Context\\ApplicationBdContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T22:23:27.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T22:23:27.34Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T22:20:12.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T22:20:12.13Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T18:01:24.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T18:01:24.867Z"
             }
           ]
         }
