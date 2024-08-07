@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|c:\\users\\admin\\desktop\\back-end\\ef-task1\\migrations\\20240806224145_updateproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:migrations\\20240806224145_updateproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\context\\applicationbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:context\\applicationbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|c:\\users\\admin\\desktop\\back-end\\ef-task1\\migrations\\20240806224145_updateproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:migrations\\20240806224145_updateproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\migrations\\20240806223403_createproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\migrations\\20240806223525_createnewproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:migrations\\20240806223525_createnewproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BBCC415-F76E-4BFB-A1C3-6F795069DCAE}|EF-Task1.csproj|C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20240806224145_updateProductsTable.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\Migrations\\20240806224145_updateProductsTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20240806224145_updateProductsTable.cs",
@@ -51,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20240806223525_CreateNewProductsTable.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\Migrations\\20240806223525_CreateNewProductsTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20240806223525_CreateNewProductsTable.cs",
@@ -63,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "20240806223403_CreateProductsTable.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\Migrations\\20240806223403_CreateProductsTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20240806223403_CreateProductsTable.cs",
@@ -83,19 +87,21 @@
               "RelativeToolTip": "Context\\ApplicationBdContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T22:23:27.34Z"
+              "WhenOpened": "2024-08-06T22:23:27.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Back-End\\EF-Task1\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T22:20:12.13Z"
+              "WhenOpened": "2024-08-06T22:20:12.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
